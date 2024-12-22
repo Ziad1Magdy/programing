@@ -5,7 +5,8 @@ class FirstClass:
          print(self.data) 
          
          
-         
+
+
 x = FirstClass() 
 y = FirstClass() 
 
